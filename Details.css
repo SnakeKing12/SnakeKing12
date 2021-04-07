@@ -1,0 +1,112 @@
+#header{
+  position: relative;
+  background: silver;
+  border-size:1px;
+  border-radius: 5px;
+  border-color: gold;
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-right: 10px;
+  height: 20px;
+  width: 270px;
+  left: 40%;
+  padding-bottom: 6px;
+  text-align: center;
+
+}
+#navigation {
+background-color: lightgrey;
+  border-color:1px black;
+  border-style: none;
+  box-shadow: 20px;
+  border-radius: 2px;
+   padding-bottom: 25px;
+   margin-top: 26px;
+   margin-left: -20px;
+   padding-top: 0px;
+   padding-right: 10px;
+   padding-left: 10px;
+   width: 100%;
+   height:25px;
+   position: relative;
+}
+
+#navigation ul li {
+      display: inline-block;
+      border: grey;
+      padding: 15px;
+      float: right;
+      justify-content: center;
+      position: relative;
+ }
+
+
+
+
+body{
+  margin:0; 
+  padding:0; 
+  background-color: lightblue;
+  background-image: url("COOL CAR.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  
+
+}
+p{
+  background-color: transparent;
+   border:1px solid transparent;
+   min-height: 10px;
+   max-height: 50px;
+   min-width: 20px;
+   max-width: 100px;
+}
+
+
+#Contact{
+  width: 50%;
+  height: 70%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 4px;
+  margin-bottom: 10px;
+  border:1px grey solid;
+}
+
+img{
+
+  width: 13%;
+  height: 13%;
+}
+
+
+}
+#footer {
+background-color: lightgrey;
+  border-color:1px black;
+  border-style: none;
+  box-shadow: 20px;
+  border-radius: 2px;
+   padding-bottom: 25px;
+   margin-top: 506px;
+   margin-left: -20px;
+   padding-top: 0px;
+   padding-right: 10px;
+   padding-left: 10px;
+   width: 100%;
+   height:25px;
+
+   position: relative;
+}
+
+#footer ul li {
+      display: inline-block;
+      border: grey;
+      padding: 15px;
+      float: right;
+      justify-content: center;
+      position: relative;
+ }
+

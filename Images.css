@@ -1,0 +1,115 @@
+#header{
+  position: relative;
+  background: silver;
+  border-size:1px;
+  border-radius: 5px;
+  border-color: gold;
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-right: 10px;
+  height: 20px;
+  width: 270px;
+  left: 40%;
+  padding-bottom: 6px;
+  text-align: center;
+
+}
+#navigation {
+background-color: lightgrey;
+  border-color:1px black;
+  border-style: none;
+  box-shadow: 20px;
+  border-radius: 2px;
+   padding-bottom: 25px;
+   margin-top: 26px;
+   margin-left: -20px;
+   padding-top: 0px;
+   padding-right: 10px;
+   padding-left: 10px;
+   width: 100%;
+   height:25px;
+   position: relative;
+}
+
+#navigation ul li {
+      display: inline-block;
+      border: grey;
+      padding: 15px;
+      float: right;
+      justify-content: center;
+      position: relative;
+ }
+
+
+
+body{
+  margin:0; 
+  padding:0; 
+  width: 100%;
+  height: 100%;
+  background-color: lightblue;
+  background-image: url("COOL CAR.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+p{
+  background-color: transparent;
+   border:1px solid transparent;
+   min-height: 10px;
+   max-height: 50px;
+   min-width: 20px;
+   max-width: 100px;
+}
+.flex-container{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	columns: 40%;
+	padding: 10px 10px 10px 10px;
+    overflow-y: scroll;
+}
+
+img{
+	background-color: silver;
+	padding: 6px 6px 6px 6px;
+	width: 100px;
+	height: 120px;
+	border:1px solid grey;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	position: relative;
+	overflow-y: scroll;
+}
+
+#footer {
+background-color: lightgrey;
+  border-color:1px black;
+  border-style: none;
+  box-shadow: 20px;
+  border-radius: 2px;
+   padding-bottom: 25px;
+   margin-top: 206px;
+   margin-left: -20px;
+   padding-top: 0px;
+   padding-right: 10px;
+   padding-left: 10px;
+   width: 100%;
+   height:25px;
+
+   position: relative;
+}
+
+#footer ul li {
+      display: inline-block;
+      border: grey;
+      padding: 15px;
+      float: right;
+      justify-content: center;
+      position: relative;
+ }
+
